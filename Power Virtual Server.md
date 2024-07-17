@@ -1,0 +1,5 @@
+IBM® Power® Virtual Server is an IBM Power server offering. You can use the Power Virtual Server to deploy a virtual server, also known as a logical partition (LPAR), in a matter of minutes. You can provision flexible, secure, and scalable compute capacity for Power enterprise workloads both on IBM Power Virtual Server Private Cloud and Power Virtual Server in your data center.
+
+You get fast and flexible management that can be connected to access a stack of enterprise services from IBM – all with pay-as-you-use billing. Using these services you can easily adjust workloads with flexible compute capacity. Power Virtual Server instances can be used across the IBM Cloud platform globally. You can quickly deploy a Power Virtual Server to meet your specific business needs and easily control workload demands. Avoid the large capital expenses or added risk when migrating your essential workloads and get started with Power Virtual Server today! For frequently asked questions about the Power Virtual Server, see FAQ.
+
+You can find more information on Power Virtual Server at https://cloud.ibm.com/docs/power-iaas
