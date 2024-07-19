@@ -4,4 +4,6 @@ The HMC also provides terminal emulation for the logical partitions on your mana
 
 The PowerVM NovaLink architecture enables management of highly scalable cloud deployment by using the PowerVM technology and OpenStack solutions. The architecture provides a direct OpenStack connection to a PowerVM server. The NovaLink partition runs the Linux® operating system and the partition runs on a server that is virtualized by PowerVM. The server is managed by PowerVC or other OpenStack solutions.
 
-For more information, refer to https://www.ibm.com/docs/en/power10/000V-HMC
+For more information, refer to https://www.ibm.com/docs/en/power10/000V-HMC. 
+
+For details on commands, refer to https://www.ibm.com/docs/en/power10/000V-HMC?topic=appliance-hmc-commands
